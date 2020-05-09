@@ -1,0 +1,3 @@
+# Исключения(exceptions)
+
+int('string')
